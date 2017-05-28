@@ -27,3 +27,13 @@ C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT
 C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
 C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Start.resources
 C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\obj\Debug\PROJECT.Start.resources
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\MazePikachu\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
