@@ -13,7 +13,7 @@ Boris Dedejski,Daniela Janushevska
 
 ![Alt text](Screenshots/Start.jpg?raw=true "Start the Game")
 
-![Alt text](Screenshots/Maze Pikachu.jpg?raw=true "MazePikachu")
+![Alt text](Screenshots/Maze.jpg?raw=true "MazePikachu")
 
 ##2.Упатство за Користење
 
@@ -23,9 +23,9 @@ Boris Dedejski,Daniela Janushevska
 Целта на играта е да ги поминете препреките, да ги избегнете стапиците(обележани со костур) и да соберете што е можно повеќе овошја и да стигнете до жолтото знаме (до FINISH-от). Повеќе овошја ви носат повеќе поени.
 На почеток имате на располагање 10 животи (LIVES) ако допрете во некоја препрека или сте во стапица тогаш ве враќа на почетната позиција а бројот на живот ви се намалува и ако ги изгубите сите животи а не стигните до целта ви се отвара повторно почетното мени да изберете дали повторно ке ја играте играта.
 
-![Alt text](Screenshots/FINISH! - Win.jpg?raw=true "Win")
+![Alt text](Screenshots/Win.jpg?raw=true "Win")
 
-![Alt text](Screenshots/GAME OVER! - Lose.jpg?raw=true "Lose")
+![Alt text](Screenshots/Lose.jpg?raw=true "Lose")
 
 #2.2 Копче QUIT
 
