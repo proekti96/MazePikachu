@@ -1,0 +1,29 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\VP\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
+C:\Users\BorisPc\Desktop\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Start.resources
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.Start.resources
+C:\Users\User\Desktop\PROEKT VP\vizuelnoProekt\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
